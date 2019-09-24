@@ -1,0 +1,20 @@
+{
+  "name": "iplistening",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Karl Guo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.10",
+    "electron-packager": "^14.0.6"
+  },
+  "dependencies": {
+    "ping": "^0.2.2"
+  }
+}
